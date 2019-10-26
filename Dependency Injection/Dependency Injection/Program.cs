@@ -24,7 +24,7 @@ namespace ConsoleApp1
             Console.ReadKey();
 
             c2.operation = s;
-            Console.WriteLine(c2.doaction(16, 3));
+            Console.WriteLine(c2.doaction(16, 11));
             Console.ReadKey();
 
 
